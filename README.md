@@ -23,6 +23,7 @@
 **Tools & Platforms:**
 - Git & GitHub
 - VS Code
+- PyCharm
 
 ---
 
