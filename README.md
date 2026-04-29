@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: **[#100 days of Code]**
+- 🌱 I’m currently learning: **[#100 days of Code: Python]**
 - 🎯 My goal: **[e.g., become a full-stack developer / build games]**
 - 🧠 Interested in: **[AI, game dev, web dev, etc]**
 - ⚡ Fun fact: **[The Abscence of Evidence is not Evidence of Abscence]**
@@ -23,7 +23,6 @@
 **Tools & Platforms:**
 - Git & GitHub
 - VS Code
-- [Any other tools you use]
 
 ---
 
